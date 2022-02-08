@@ -1,4 +1,4 @@
-## React Redux JWT Authentication & Authorization example
+## React Redux JWT Authentication & Authorization Login Form
 
 Build a React Redux Token Authentication example with JWT, LocalStorage, React Router, Axios and Bootstrap:
 - JWT Authentication Flow for User Signup & User Login
@@ -18,16 +18,6 @@ The following flow shows you an overview of Requests and Responses that React Cl
 
 ![react-jwt-authentication-flow](react-jwt-authentication-flow.png)
 
-For more detail, please visit:
-> [React Redux JWT Authentication & Authorization example](https://bezkoder.com/react-redux-jwt-auth/)
-
-> [React - How to Logout when Token is expired](https://www.bezkoder.com/react-logout-token-expired/)
-
-> [React Hooks + Redux: JWT Authentication & Authorization example](https://bezkoder.com/react-hooks-redux-login-registration-example/)
-
-> [React JWT Authentication & Authorization (without Redux) example](https://bezkoder.com/react-jwt-auth/)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Set port
 .env
